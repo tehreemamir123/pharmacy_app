@@ -64,4 +64,4 @@ Flutter Developer
 
 ## 📜 License
 
-This project is for educational purposes and personal use.
+This project is for Health purposes and Medical use.
