@@ -27,7 +27,8 @@ The Pharmacy App is designed to simplify access to healthcare by allowing users 
 
 > Replace the image below with your actual app screenshot
 
-![Pharmacy App Screenshot](assets/images/pharmacy_app.png)
+![Pharmacy Screenshot](https://github.com/tehreemamir123/pharmacy_app/blob/f7e0e19b925b82998d09b503cf46dc1ff5533415/pharmacy.jpeg?raw=true)
+
 
 ## 🚀 Getting Started
 
@@ -36,15 +37,6 @@ The Pharmacy App is designed to simplify access to healthcare by allowing users 
 * Flutter SDK installed
 * Android Studio / VS Code
 * Android Emulator or Physical Device
-
-### Installation
-
-```bash
-flutter pub get
-flutter run
-```
-
----
 
 ## 📂 Project Structure
 
