@@ -57,13 +57,6 @@ lib/
  ├── widgets/
  └── main.dart
 ```
-## 📄 Documentation
-
-For Flutter development help, visit:
-
-* 📘 [https://docs.flutter.dev/](https://docs.flutter.dev/)
-
-
 ## 👩‍💻 Author
 
 **Tehreem Amir**
