@@ -1,16 +1,74 @@
-# pharmacy_app
+# 🏥 Pharmacy App (Flutter)
 
-A new Flutter project.
+A modern **Pharmacy Mobile Application** built with **Flutter** that provides users with a fast, secure, and user‑friendly way to browse medicines, upload prescriptions, and place orders online.
 
-## Getting Started
+## 📱 Overview
 
-This project is a starting point for a Flutter application.
+The Pharmacy App is designed to simplify access to healthcare by allowing users to search for medicines, view detailed product information, and order pharmacy items directly from their mobile devices. The app focuses on clean UI/UX, performance, and reliability.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* 💊 **Browse Medicines** – View a wide range of medicines with prices and descriptions
+* 📝 **Prescription Upload** – Upload doctor prescriptions securely
+* 🔍 **Smart Search** – Quickly find medicines by name or category
+* 🛒 **Cart & Checkout** – Add items to cart and place orders easily
+* 🚚 **Order Tracking** – Track order status in real time
+* 🔐 **Secure Authentication** – Login & signup using email/password
+* ☁️ **Cloud Database** – Powered by Firebase for real‑time data.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+* **Flutter & Dart**
+* **Firebase Authentication**
+* **Cloud Firestore**
+* **Material UI**
+
+## 🖼️ App Screenshots
+
+> Replace the image below with your actual app screenshot
+
+![Pharmacy App Screenshot](assets/images/pharmacy_app.png)
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Flutter SDK installed
+* Android Studio / VS Code
+* Android Emulator or Physical Device
+
+### Installation
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+ ├── auth/
+ ├── screens/
+ ├── services/
+ ├── models/
+ ├── widgets/
+ └── main.dart
+```
+## 📄 Documentation
+
+For Flutter development help, visit:
+
+* 📘 [https://docs.flutter.dev/](https://docs.flutter.dev/)
+
+
+## 👩‍💻 Author
+
+**Tehreem Amir**
+Flutter Developer
+
+## 📜 License
+
+This project is for educational purposes and personal use.
