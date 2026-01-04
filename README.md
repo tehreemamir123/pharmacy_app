@@ -25,8 +25,6 @@ The Pharmacy App is designed to simplify access to healthcare by allowing users 
 
 ## 🖼️ App Screenshots
 
-> Replace the image below with your actual app screenshot
-
 ![Pharmacy Screenshot](https://github.com/tehreemamir123/pharmacy_app/blob/f7e0e19b925b82998d09b503cf46dc1ff5533415/pharmacy.jpeg?raw=true)
 
 
